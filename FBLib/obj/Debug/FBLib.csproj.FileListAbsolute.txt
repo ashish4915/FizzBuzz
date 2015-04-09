@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\FizzBuzz\FBLib\bin\Debug\FBLib.dll
+\\psf\home\documents\visual studio 2013\Projects\FizzBuzz\FBLib\bin\Debug\FBLib.pdb
+\\psf\home\documents\visual studio 2013\Projects\FizzBuzz\FBLib\obj\Debug\FBLib.dll
+\\psf\home\documents\visual studio 2013\Projects\FizzBuzz\FBLib\obj\Debug\FBLib.pdb
+\\psf\home\documents\visual studio 2013\Projects\FizzBuzz\FBLib\obj\Debug\FBLib.csprojResolveAssemblyReference.cache
