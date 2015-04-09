@@ -15,8 +15,11 @@ namespace FizzBuzz
             Func<int, bool> div5 = i => (i % 5 == 0);
             Func<int, bool> div7 = i => (i % 7 == 0);
 
-            var fizzBuzzer = new FizzBuzzer(Console.Out, new Rule(div3, "fizz"), new Rule(div5, "buzz"),
+            var fizzBuzzer = new FizzBuzzer(Console.Out, 
+                new Rule(div3, "fizz"), 
+                new Rule(div5, "buzz"),
                 new Rule(div7, "hello"));
+
             fizzBuzzer.Print(1, 100);
             Console.ReadLine();
         }
